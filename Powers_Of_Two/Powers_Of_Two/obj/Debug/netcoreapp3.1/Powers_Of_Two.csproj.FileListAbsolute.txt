@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.exe
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.deps.json
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.runtimeconfig.json
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.dll
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\bin\Debug\netcoreapp3.1\Powers_Of_Two.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.AssemblyInfo.cs
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.dll
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Powers_Of_Two\Powers_Of_Two\obj\Debug\netcoreapp3.1\Powers_Of_Two.genruntimeconfig.cache

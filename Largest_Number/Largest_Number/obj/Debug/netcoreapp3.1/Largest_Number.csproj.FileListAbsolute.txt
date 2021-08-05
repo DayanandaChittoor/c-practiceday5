@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.exe
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.deps.json
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.runtimeconfig.json
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.dll
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\bin\Debug\netcoreapp3.1\Largest_Number.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.AssemblyInfo.cs
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.dll
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Largest_Number\Largest_Number\obj\Debug\netcoreapp3.1\Largest_Number.genruntimeconfig.cache

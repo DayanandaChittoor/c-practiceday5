@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.exe
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.deps.json
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.runtimeconfig.json
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.dll
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\bin\Debug\netcoreapp3.1\Prime_Factors.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.AssemblyInfo.cs
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.dll
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.pdb
+C:\Users\dayas\programcodes\classpracticecodes\Prime_Factors\Prime_Factors\obj\Debug\netcoreapp3.1\Prime_Factors.genruntimeconfig.cache

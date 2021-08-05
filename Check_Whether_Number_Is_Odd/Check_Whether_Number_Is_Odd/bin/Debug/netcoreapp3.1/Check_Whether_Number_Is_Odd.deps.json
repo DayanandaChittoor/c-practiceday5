@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Check_Whether_Number_Is_Odd/1.0.0": {
+        "runtime": {
+          "Check_Whether_Number_Is_Odd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check_Whether_Number_Is_Odd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
